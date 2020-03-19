@@ -1,0 +1,3 @@
+export const CARD_LIST_INFO = "CARD_LIST_INFO";
+export const GET_CARD_LIST_SUCC = "GET_CARD_LIST_SUCC";
+export const GET_CARD_LIST_ERR = "GET_CARD_LIST_ERR";
